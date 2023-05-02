@@ -9,7 +9,7 @@ Model code is split into five key files:
 -all other parameters  
   
 There are also two input data files:  
--baseline data for calculating beta, taken from Christensen et al.,   
+-baseline data for calculating beta  
 -UK mortality data (crude death rate)  
   
 Please see our paper for a full description of the model.  
